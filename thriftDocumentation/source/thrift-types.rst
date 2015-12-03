@@ -33,7 +33,7 @@ Special Types
 Structs
 --------
 
-A struct has a set of strongly typed fields, each with a unique name identifier. The look very similar to C-like structs. ::
+A struct has a set of strongly typed fields, each with a unique name identifier. They look very similar to C-like structs. ::
 
 	struct Example {
 	  1:i32 number=10,
